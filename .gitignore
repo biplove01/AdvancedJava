@@ -1,9 +1,0 @@
-.DS_Store
-*.class
-out/
-*.iml
-*.png
-*.ser
-*.txt
-.idea/
-
